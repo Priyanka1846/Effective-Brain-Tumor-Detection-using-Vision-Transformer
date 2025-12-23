@@ -1,4 +1,4 @@
-# Brain Tumor Detection Using Deep Learning
+# Effective Brain Tumor Detection using Vision Transformer
 
 This project aims to detect and classify brain tumors in MRI scans using deep learning models such as CNNs or Vision Transformers. The system is trained on a dataset of brain MRI images and can classify tumors into different types (e.g., glioma, meningioma, pituitary, and healthy).
 
