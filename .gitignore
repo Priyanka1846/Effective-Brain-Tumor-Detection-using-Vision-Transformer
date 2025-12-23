@@ -1,0 +1,42 @@
+/ae+vit cm.png
+/AE+ViT Loss Comparison.png
+/AE+ViT.png
+/arch_output.png
+/best_cnn_model.pth
+/best_model.pth
+/best_resnet18_model.pth
+/best_vit_model.pth
+/comparison_analysis.png
+/Conclusion.docx
+/confusion.py
+/dataset
+/DIAGRAM.pptm
+/Equations.docx
+/Equations[1].docx
+/Fig 4.png
+/Glioma.png
+/graph.png
+/humanized.docx
+/loss_curve_graph.png
+/Meningioma.png
+/Methodology-_final[1].docx
+/Methodology[1].docx
+/metrics
+/No tumor.png
+/Pituitary op.png
+/Pituitary.png
+/pitutiary.png
+/PP.docx
+/R2W1.png
+/resnet_cm.png
+/result.txt
+/Results and Discussion.docx
+/train_acc_graph.png
+/train_loss_graph.png
+/Tumor.docx
+/val_acc_graph.png
+/val_loss_graph.png
+/Vision Transformer.png
+/vit_cm.png
+/__pycache__
+/~$DIAGRAM.pptm
